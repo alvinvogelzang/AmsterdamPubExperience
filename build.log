@@ -1,0 +1,35 @@
+Logfile initialized
+[INFO] logfile = /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/build.log
+[INFO] logfile = /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/build.log
+[DEBUG] /Users/erikdegroot/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/builder.py simulator CrawlympicsV4 /Applications/Android-sdk /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4 com.alvinvogelzang.AmsterdamPubExperience 3 WVGA854
+[DEBUG] /Users/erikdegroot/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/builder.py emulator CrawlympicsV4 /Applications/Android-sdk /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4 com.alvinvogelzang.AmsterdamPubExperience 3 WVGA854
+[INFO] Building CrawlympicsV4 for Android ... one moment
+[INFO] Launching Android emulator...one moment
+[DEBUG] From: /Applications/Android-sdk/tools/emulator
+[DEBUG] SDCard: /Users/erikdegroot/.titanium/android2.sdcard
+[DEBUG] AVD ID: 3
+[DEBUG] AVD Skin: WVGA854
+[DEBUG] SDK: /Applications/Android-sdk
+[INFO] Emulator is running.
+[INFO] Titanium SDK version: 3.0.2 (02/15/13 19:02 5a77fe7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.022845 seconds on emulator to get ready
+[DEBUG] com.alvinvogelzang.AmsterdamPubExperience installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/Resources/strafregelUitvoeren.js => /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/build/android/bin/assets/Resources/strafregelUitvoeren.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/erikdegroot/Documents/Titanium_Studio_Workspace/CrawlympicsV4/Resources/android/images/res-notlong-port-mdpi/default.png
+[INFO] Re-launching application ... CrawlympicsV4
+[INFO] Launching application ... CrawlympicsV4
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.alvinvogelzang.AmsterdamPubExperience/.Crawlympicsv4Activity }
+Warning: Activity not started, its current task has been brought to the front
+
